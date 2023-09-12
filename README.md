@@ -1,6 +1,6 @@
-# Hi, I'm Win! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mona+Sans&size=40&pause=1000&color=F7F7F7&vCenter=true&width=435&height=54&lines=Hi%2C+I'm+Win!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/win-htet-lin-96ab8b252/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/win-htet-lin-96ab8b252/) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC7MAEwG_NPLdQd2sEYjxTxQ?style=for-the-badge&logo=youtube) ![Youtube](https://img.shields.io/youtube/channel/views/UC7MAEwG_NPLdQd2sEYjxTxQ?style=for-the-badge&logo=youtube)
 
 ## About Me:
 - 📅 7 years experience with most industry languages since 2023
