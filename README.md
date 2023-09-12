@@ -1,11 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mona+Sans&size=40&pause=1000&color=F7F7F7&vCenter=true&width=435&height=54&lines=Hi%2C+I'm+Win!+%F0%9F%91%8B)](https://git.io/typing-svg)
+<h1 align="center">Hi, I'm Win 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/win-htet-lin-96ab8b252/) ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC7MAEwG_NPLdQd2sEYjxTxQ?style=for-the-badge&logo=youtube) ![Youtube](https://img.shields.io/youtube/channel/views/UC7MAEwG_NPLdQd2sEYjxTxQ?style=for-the-badge&logo=youtube)
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Highschool+Student;7+Years+Experience;Always+Learning+New+Things" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+ <a href="https://www.linkedin.com/in/win-htet-lin-96ab8b252/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<img src="https://img.shields.io/youtube/channel/subscribers/UC7MAEwG_NPLdQd2sEYjxTxQ?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribers" />
+<img src="https://img.shields.io/youtube/channel/views/UC7MAEwG_NPLdQd2sEYjxTxQ?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Views" />
+ <a href="https://ko-fi.com/astrogamer54">
+  <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" />
+</a>
+</p>
+
+***
 
 ## About Me:
 - 📅 7 years experience with most industry languages since 2023
 - ⭐️ Passionate about technology and innovations
-- 🚀 Co-founder of SafeWalk, a navigational service for pedestrians to ensure safety and avoid crime, along with Wes Griffin and Parker Mccoog during the Google X summer program at Stanford University. 
+- 🚀 Co-founder of SafeWalk, a navigational service for pedestrians to ensure safety and avoid crime, along with Wes Griffin and Parker Mccoog during the Google X summer program at Stanford University 🎓.
 
 ## Experience with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
