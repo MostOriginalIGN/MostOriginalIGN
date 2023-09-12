@@ -1,7 +1,7 @@
 **Summary**
 
 - 7 years of experience with most industry languages as of 2023.
-- Co-founder of SafeWalk, a navigational service for pedestrians to ensure safety and avoid crime, along with Wes Griffin and Parker Mccoog during the Google X summer program at Stanford University.
+- Co-founder of SafeWalk, a navigational service for pedestrians to ensure safety and avoid crime, along with Wes Griffin and Parker Mccoog during the prestigious Google X summer program at Stanford University.
 
 **Programming Languages**
 - ⭐️ Python
