@@ -3,8 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/win-htet-lin-96ab8b252/)
 
 ## About Me:
-- 7 years experience with most industry languages since 2023
-- Passionate about technology and safety
+- 📅 7 years experience with most industry languages since 2023
+- ⭐️ Passionate about technology and innovations
 - 🚀 Co-founder of SafeWalk, a navigational service for pedestrians to ensure safety and avoid crime, along with Wes Griffin and Parker Mccoog during the Google X summer program at Stanford University. 
 
 ## Experience with:
