@@ -1,16 +1,20 @@
-### Hi there 👋
+**Summary**
 
-<!--
-**MostOriginalIGN/MostOriginalIGN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 7 years of experience with most industry languages as of 2023.
+- Co-founder of SafeWalk, a navigational service for pedestrians to ensure safety and avoid crime, along with Wes Griffin and Parker Mccoog during the Google X summer program at Stanford University.
 
-Here are some ideas to get you started:
+**Programming Languages**
+- ⭐️ Python
+- ⭐️ Javascript
+- ⭐️ C++
+- ⭐️ HTML
+- ⭐️ CSS
+- ⭐️ Typescript
+- ⭐️ Java (AP CS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Experience With**
+- Raspberry Pi
+- Full Stack Programming with Server-Side Python, Database, and Web Client
+- Engineering & Programming using VEX (EDR)
+- Cross-Platform Web and Mobile App Programming
+- Artificial Intelligence and Machine Learning
