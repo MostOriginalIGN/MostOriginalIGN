@@ -7,10 +7,10 @@
  <a href="https://www.linkedin.com/in/win-htet-lin-96ab8b252/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
- <a href="https://www.youtube.com/@Astrogamer54">
+ <a href="https://www.youtube.com/@pa1ntexe">
 <img src="https://img.shields.io/youtube/channel/subscribers/UC7MAEwG_NPLdQd2sEYjxTxQ?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Subscribers" />
  </a>
- <a href="https://www.youtube.com/@Astrogamer54">
+ <a href="https://www.youtube.com/@pa1ntexe">
 <img src="https://img.shields.io/youtube/channel/views/UC7MAEwG_NPLdQd2sEYjxTxQ?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Views" />
  </a>
  <a href="https://ko-fi.com/astrogamer54">
