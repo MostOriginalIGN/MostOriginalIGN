@@ -21,7 +21,7 @@
 ***
 
 ## About Me:
-- 📅 7 years experience with most industry languages up to 2023
+- 📅 8 years experience with most industry languages up to 2024
 - ⭐️ Passionate about technology and innovations
 - 🚀 Co-founder of SafeWalk, a navigational service for pedestrians to ensure safety and avoid crime, along with Wes Griffin and Parker Mccoog during the Google X summer program at Stanford University 🎓.
 
