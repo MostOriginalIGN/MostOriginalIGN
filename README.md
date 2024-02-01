@@ -32,6 +32,7 @@
 
 
 ## Other Skills:
+- FRC WPILib Java
 - VEX (EDR) Engineering & Programming
 - Artificial Intelligence & Machine Learning
   
