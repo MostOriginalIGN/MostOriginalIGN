@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Win 👋</h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Highschool+Student;7+Years+Experience;Always+Learning+New+Things" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mona+Sans&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Highschool+Student;8+Years+Experience;Always+Learning+New+Things" alt="Typing SVG" /></a>
 </p>
 <p align="center">
  <a href="https://www.linkedin.com/in/win-htet-lin-96ab8b252/">
@@ -41,4 +41,4 @@
 ## Recently Played
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fwvjsrdwekrprwyoy7uwpftyq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=fwvjsrdwekrprwyoy7uwpftyq&redirect=true)
 ## Cool Things
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/astrogamer54) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/astrogamer54) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Astrogamer54) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/3i16CuRnwifoL11xlsF3fA?si=DDRIXJoPQjGPpDQWMrVQMw&nd=1) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Astrogamer54) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/547634481935286282) 
+[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/astrogamer54) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/astrogamer54) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Astrogamer54) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Astrogamer54) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/547634481935286282) 
