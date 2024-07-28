@@ -43,8 +43,6 @@
 
 ## Recently Played
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fwvjsrdwekrprwyoy7uwpftyq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=fwvjsrdwekrprwyoy7uwpftyq&redirect=true)
-## Cool Things
-[![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/astrogamer54) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/astrogamer54) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Astrogamer54) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Astrogamer54) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/547634481935286282) 
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MostOriginalIGN&theme=dracula)](https://wakatime.com/@MostOriginalIGN)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostoriginalign&theme=dracula)](https://wakatime.com/@MostOriginalIGN)
