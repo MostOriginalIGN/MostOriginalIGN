@@ -41,8 +41,14 @@
   
 ![trophy](https://github-profile-trophy.vercel.app/?username=MostOriginalIGN&theme=onedark&rank=-C,-?)
 
-## Recently Played
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fwvjsrdwekrprwyoy7uwpftyq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=fwvjsrdwekrprwyoy7uwpftyq&redirect=true)
+ <a href="https://github.com/frc-7419/crescendo-2024-scouting-site?tab=readme-ov-file">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=frc-7419&repo=crescendo-2024-scouting-site&theme=dracula" />
+ </a>
+ <a href="https://github.com/MostOriginalIGN/minimalistic-desktop">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MostOriginalIGN&repo=minimalistic-desktop&theme=dracula" />
+ </a>
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MostOriginalIGN&theme=dracula)](https://wakatime.com/@MostOriginalIGN)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mostoriginalign&theme=dracula)](https://wakatime.com/@MostOriginalIGN)
+## Recently Played
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fwvjsrdwekrprwyoy7uwpftyq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=fwvjsrdwekrprwyoy7uwpftyq&redirect=true)
+
+[![WakaTime stats](https://github-profile-readme-phi.vercel.app/api/wakatime?username=MostOriginalIGN&theme=dracula&layout=compact)](https://wakatime.com/@MostOriginalIGN)
