@@ -50,5 +50,3 @@
 
 ## Recently Played
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fwvjsrdwekrprwyoy7uwpftyq&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=fwvjsrdwekrprwyoy7uwpftyq&redirect=true)
-
-[![WakaTime stats](https://github-profile-readme-phi.vercel.app/api/wakatime?username=MostOriginalIGN&theme=dracula&layout=compact)](https://wakatime.com/@MostOriginalIGN)
