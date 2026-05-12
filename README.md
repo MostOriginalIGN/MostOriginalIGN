@@ -14,7 +14,7 @@
 <br>
 <br>
 
-[![](https://skillicons.dev/icons?i=python,ts,java,cpp,rust,react,nextjs,nodejs,tailwind,tensorflow,postgres,linux&theme=dark&perline=7)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,ts,java,cpp,rust,react,nextjs,nodejs,tailwind,tensorflow,postgres,linux&theme=dark&perline=6)](https://skillicons.dev)
 <br>
 <br>
 
